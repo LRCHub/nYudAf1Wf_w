@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "赤い実ハジケタ恋空の下(YAMAZARemix version)",
+  "base_artist": "YAMAZARU",
+  "createdAt": "2026-02-12T07:11:16.532949Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤い実ハジケタ恋空の下..part2",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_01_赤い実ハジケタ恋空の下..part2_山猿.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "赤い実ハジケタ恋空の下..part2",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_02_赤い実ハジケタ恋空の下..part2_山猿.txt"
+    }
+  ]
+}
